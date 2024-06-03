@@ -23,8 +23,8 @@ jobs:
 
     - name: Commit and Push Changes
       run: |
-        git config --global user.email "you@example.com"
-        git config --global user.name "Your Name"
+        git config --global user.email "thomaspradae@gmail.com"
+        git config --global user.name "thomaspradae"
         git add -A
         git commit -m "Update Markdown files via GitHub Actions" || echo "No changes to commit"
         git push
