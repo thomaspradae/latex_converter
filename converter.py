@@ -10,8 +10,8 @@ def convert_file(file_path):
 
     # Your substitution logic here
     content = re.sub(r'<!-- noconvert -->(.*?)<!-- /noconvert -->', lambda x: x.group(0), content, flags=re.DOTALL)
-    content = re.sub(r'\$\$(.+?)\$\$', r'\\[ \1 \\]', content)
-    content = re.sub(r'\$(.+?)\$', r'\\( \1 \\)', content)
+    content = re.sub(r'\$\$(.+?)\$\$', r'\\\\[ \1 \\\\]', content)  
+    content = re.sub(r'\$(.+?)\$', r'\\\\( \1 \\\\)', content)      
 
     if content != original_content:
         print(f"Changes made to {file_path}")
