@@ -51,7 +51,7 @@ self.coordinates = np.array([x, y])
 
 This is some shit that needs no converting you see like this $100 USD or maybe something like 
 
-\\( 100 and  \\)100 
+$100 and  $100 
 
 <!-- /noconvert -->
 
