@@ -62,6 +62,17 @@ Here is an dosplay equation \\[ e^{i\pi} + 1 = 0 \ \\]
 
 
 
+<!-- noconvert -->
+
+This is some shit that needs no converting you see like this $100 USD or maybe something like 
+
+$100 and $100 
+
+<!-- /noconvert -->
+
+
+
+
 
 [Hi](Pasted image 20240530180557.png)
 There can be quite a bit of terminology to unpack 
