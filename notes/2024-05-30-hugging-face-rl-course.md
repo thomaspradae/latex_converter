@@ -56,7 +56,7 @@ This RL process we've just discussed is called a [Markov Decision Process (MDP)]
 
 Here is an inline equation \\( e^{i\pi} + 1 = 0  \\)
 
-Here is an inline equation \\( e^{i\pi} + 1 = 0 \\)
+Here is an inline equation $e^{i\pi} + 1 = 0$
 
 Here is an dosplay equation \\[ e^{i\pi} + 1 = 0 \ \\]
 
