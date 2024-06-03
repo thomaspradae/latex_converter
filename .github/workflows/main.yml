@@ -17,5 +17,5 @@ jobs:
       with:
         python-version: '3.x'  
     - name: Run Script
-      run: python convert_latex.py  
+      run: python converter.py  
       working-directory: .  
