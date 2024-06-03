@@ -9,17 +9,17 @@ excerpt: A huge thanks to Andrej Karpathy and MJ. If there's some class you real
 
 ---
 
-$e^{something}$
-Hi, my name is thomas, that is spelled $10 = 10 + 0$
+\\( e^{something} \\)
+Hi, my name is thomas, that is spelled \\( 10 = 10 + 0 \\)
 
 Let's add some more latex here:
 
-$e^{i\pi} + 1 = 0$
-$e^{i\pi} + 1 = 0$
+\\( e^{i\pi} + 1 = 0 \\)
+\\( e^{i\pi} + 1 = 0 \\)
 
 Now some inline latex with the dollar sign:
 
-hi $e^{i\pi} + 1 = 0$ and $e^{i\pi} + 1 = 0$
+hi \\( e^{i\pi} + 1 = 0 \\) and \\( e^{i\pi} + 1 = 0 \\)
 
 A hugeeee thanks to Andrej Karpathy and MJ. 
 
