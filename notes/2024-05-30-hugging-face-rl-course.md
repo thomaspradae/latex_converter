@@ -12,6 +12,8 @@ tags:
 excerpt: 
 ---
 
+# IT'S LITERALLY ALL FOR THE DAWGS
+
 
 ## (0.0.0) - THE BIG PICTURE AND RL LEARNING FRAMEWORK
 
